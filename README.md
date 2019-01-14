@@ -1,4 +1,5 @@
 # ANOBOARD - CS473 Project
+Check out the site here https://anoboard.netlify.com
 Update:
 * 18/11/20 refactoring, adding new sections
 * 18/11/07 remove reactstrap & change react-bootstrap version
